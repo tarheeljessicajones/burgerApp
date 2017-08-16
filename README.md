@@ -1,2 +1,2 @@
 # burgerApp
-A burger application using MySQL, Express, and Node
+A burger application using MySQL, Express.js, and Node.js

@@ -1,0 +1,58 @@
+img {
+    display: block;
+    margin: auto;
+    width: 40%;
+}
+
+body {
+    background-color: orange;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+    text-align: center;
+}
+
+
+pre, button, input {
+	display: block;
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    font-family: verdana;
+    font-size: 15px;
+	
+}
+
+
+#devourOption, #wasDevoured {
+	display: block;
+    margin: auto;
+	border: 3px solid brown;
+	position: absolute;
+    padding: 5px;
+}
+
+#devourOption { 
+    left: 0px;
+    width: 33%;
+    height: 300px;
+}
+
+#wasDevoured {
+    right: 0px;
+    width: 33%;
+    height: 300px;
+}
+
+#suggestions {
+    width: 30%;
+	display: block;
+    margin: auto;
+}
